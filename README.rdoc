@@ -5,5 +5,5 @@ Installation
 gem install GoogleURL-0.1.gem
 
 Exemple:
-—  GoogleURL::Expand.new(short_url)
-—  GoogleURL::Shorting.new(long_url)
+-  GoogleURL::Expand.new(short_url)
+-  GoogleURL::Shorting.new(long_url)
