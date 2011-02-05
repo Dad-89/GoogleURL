@@ -1,9 +1,9 @@
 GoogleURL
-Library that allows the creation of short link using the service's goo.gl.
+- Library that allows the creation of short link using the service's goo.gl.
 
 Installation
-gem install GoogleURL-0.1.gem
+- gem install GoogleURL
 
 Exemple:
-—  GoogleURL::Expand.new(short_url)
-—  GoogleURL::Shorting.new(long_url)
+-  GoogleURL::Expand.new(short_url)
+-  GoogleURL::Shorting.new(long_url)
